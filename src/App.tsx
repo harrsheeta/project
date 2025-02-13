@@ -238,7 +238,7 @@ function App() {
     {
       title: "Finance Reels",
       thumbnail: "https://img.youtube.com/vi/jyR9zeafvW8/maxresdefault.jpg",
-      videoUrl: "https://youtube.com/shorts/jyR9zeafvW8",
+      videoUrl: "https://youtube.com/shorts/LIHh_TrUUF0?feature=share",
       description: "Finance content that converts"
     },
 
